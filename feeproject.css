@@ -14,10 +14,10 @@
 }
 body{
     line-height: 1.4;
-    color: var(--dark);
+    color: var(--light);
 }
 img{
-    width: 100%;
+    width: 90%;
     display: block;
 }
 .container{
