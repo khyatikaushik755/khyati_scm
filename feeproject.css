@@ -52,7 +52,7 @@ header{
     text-align: center;
 }
 .navbar-nav a{
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-family: var(--Roboto);
     letter-spacing: 1px;
     font-weight: 500;
