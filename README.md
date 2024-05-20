@@ -16,6 +16,6 @@ Khyati 2310990549
 #  Issues: 
 Issue 1: Our issue 1 included some of the major issues inlcuded which one was that the scroll bar was not working properly. So in next version we would resolve that issue and make our website better than before.
 
-Issue 2: Our issue 2 included a working issue faced by the contributers which was resolved.
+Issue 2: Our issue 2 included a not found issue faced by the contributers which was resolved.
 
-Issue 3: or working iussue came again which was resolved thoroughly this time.
+Issue 3: Our issue 3 was working issue which was resolved thoroughly.
