@@ -7,7 +7,7 @@ Khushi rani 2310990548
 
 Khyati 2310990549
 # usage
-1. Clone the repository https://github.com/khyatikaushik755/khyati_scm.git.
+1. Clone the repositoryusing command: git clone https://github.com/khyatikaushik755/khyati_scm.git.
 2. Open using git.
 # Features
 1. Our web page includes a very sleek and modern theme including a very minimalistic design.
